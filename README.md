@@ -3,6 +3,9 @@ Steganography is the technique of hiding data within an ordinary, nonsecret file
 Steganography software is used to perform a variety of functions, including the following:
 
 Hiding data, including encoding the data to prepare it to be hidden inside another file.
+
 Keeping track of which bits of the cover text file contain hidden data.
+
 Encrypting the data to be hidden.
+
 Extracting hidden data by its intended recipient.
