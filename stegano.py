@@ -2,7 +2,7 @@ import cv2
 import os
 import string
 
-img = cv2.imread("batman.jpg") 
+img = cv2.imread("spiderman.jpg") 
 
 msg = input("Enter secret message:")
 password = input("Enter a passcode:")
